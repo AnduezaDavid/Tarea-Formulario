@@ -1,0 +1,15 @@
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\bin\Release\Formulario de empleado.exe.config
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\bin\Release\Formulario de empleado.exe
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\bin\Release\Formulario de empleado.pdb
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado.csproj.AssemblyReference.cache
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\MainWindow.g.cs
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\App.g.cs
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado_MarkupCompile.cache
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado_MarkupCompile.lref
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\MainWindow.baml
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado.g.resources
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario_de_empleado.Properties.Resources.resources
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado.csproj.GenerateResource.cache
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado.csproj.CoreCompileInputs.cache
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado.exe
+C:\Users\meloc\Downloads\xd\Nueva carpeta\Formulario de empleado\Formulario de empleado\obj\Release\Formulario de empleado.pdb
