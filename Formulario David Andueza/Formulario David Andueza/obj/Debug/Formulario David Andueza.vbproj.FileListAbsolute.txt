@@ -1,0 +1,5 @@
+C:\Users\meloc\source\repos\Formulario David Andueza\Formulario David Andueza\obj\Debug\Formulario David Andueza.vbproj.AssemblyReference.cache
+C:\Users\meloc\source\repos\Formulario David Andueza\Formulario David Andueza\obj\Debug\MainWindow.g.vb
+C:\Users\meloc\source\repos\Formulario David Andueza\Formulario David Andueza\obj\Debug\Application.g.vb
+C:\Users\meloc\source\repos\Formulario David Andueza\Formulario David Andueza\obj\Debug\Formulario David Andueza_MarkupCompile.cache
+C:\Users\meloc\source\repos\Formulario David Andueza\Formulario David Andueza\obj\Debug\Formulario David Andueza_MarkupCompile.lref
